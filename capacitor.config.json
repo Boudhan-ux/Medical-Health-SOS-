@@ -1,0 +1,14 @@
+{
+  "appId": "de.medicalcompass.app",
+  "appName": "Medical Compass",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#0f766e"
+    }
+  }
+}
